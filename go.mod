@@ -1,4 +1,4 @@
-module github.com/hadihammurabi/go-rabbitmq
+module github.com/duffya90/go-rabbitmq
 
 go 1.22.1
 

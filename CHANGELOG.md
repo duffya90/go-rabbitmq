@@ -1,6 +1,6 @@
 
 <a name="0.1.2"></a>
-## [0.1.2](https://github.com/hadihammurabi/go-rabbitmq/compare/0.1.1...0.1.2) (2021-07-11)
+## [0.1.2](https://github.com/duffya90/go-rabbitmq/compare/0.1.1...0.1.2) (2021-07-11)
 
 ### Chore
 
@@ -31,7 +31,7 @@
 
 
 <a name="0.1.1"></a>
-## [0.1.1](https://github.com/hadihammurabi/go-rabbitmq/compare/0.1.0...0.1.1) (2021-07-07)
+## [0.1.1](https://github.com/duffya90/go-rabbitmq/compare/0.1.0...0.1.1) (2021-07-07)
 
 ### Chore
 

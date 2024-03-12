@@ -9,8 +9,8 @@ import (
 	"log"
 	"sync"
 
-	rabbitmq "github.com/hadihammurabi/go-rabbitmq"
-	"github.com/hadihammurabi/go-rabbitmq/exchange"
+	rabbitmq "github.com/duffya90/go-rabbitmq"
+	"github.com/duffya90/go-rabbitmq/exchange"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

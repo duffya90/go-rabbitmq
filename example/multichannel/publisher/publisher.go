@@ -9,7 +9,7 @@ import (
 	"log"
 	"sync"
 
-	rabbitmq "github.com/hadihammurabi/go-rabbitmq"
+	rabbitmq "github.com/duffya90/go-rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

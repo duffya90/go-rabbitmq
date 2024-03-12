@@ -3,9 +3,9 @@ package gorabbitmq
 import (
 	amqp "github.com/rabbitmq/amqp091-go"
 
-	"github.com/hadihammurabi/go-rabbitmq/connection"
-	"github.com/hadihammurabi/go-rabbitmq/exchange"
-	"github.com/hadihammurabi/go-rabbitmq/queue"
+	"github.com/duffya90/go-rabbitmq/connection"
+	"github.com/duffya90/go-rabbitmq/exchange"
+	"github.com/duffya90/go-rabbitmq/queue"
 )
 
 type MQ struct {

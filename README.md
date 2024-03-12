@@ -57,7 +57,7 @@ So, to conclude, this module makes it easy to use amqp for rabbitmq.
 ## Installation
 Inside terminal emulator, simply run command below.
 ```sh
-go get github.com/hadihammurabi/go-rabbitmq
+go get github.com/duffya90/go-rabbitmq
 ```
 
 After installation it can be imported into any Go project.
@@ -66,7 +66,7 @@ For example.
 package main
 
 import (
- rabbitmq "github.com/hadihammurabi/go-rabbitmq"
+ rabbitmq "github.com/duffya90/go-rabbitmq"
 )
 ```
 

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	rabbitmq "github.com/hadihammurabi/go-rabbitmq"
+	rabbitmq "github.com/duffya90/go-rabbitmq"
 )
 
 func failOnError(err error, msg string) {
